@@ -1,0 +1,61 @@
+
+.body-class {
+  background-color:skyblue; 
+  color:black;
+  font-family: Serif,	Times New Roman; 
+}
+
+.header-class {
+  background-color:lightgreen; 
+  color: white; 
+  padding: 15px; 
+}
+
+
+.nav-class {
+  background-color: #f8f9fa; 
+  color: #333333;
+  padding: 9px;
+}
+
+.nav-class a {
+  color: #333333; 
+  text-decoration:underline;
+}
+
+.nav-class a.active {
+  font-weight: bold;
+}
+
+
+.title-class {
+  color: black;
+}
+
+.section-title-class {
+  color:blue;
+}
+
+
+.text-class {
+  color: #333333; 
+}
+
+
+.image-class {
+  border: 3px solid #007bff; 
+}
+.submit-button{
+  color:grey;
+}
+
+.footer-class {
+  background-color: #6c757d; 
+  color: #ffffff;
+  padding: 10px; 
+}
+
+@media screen and (max-width: 768px) 
+
+@media screen and (max-width: 480px) 
+
